@@ -24,7 +24,7 @@ Blockchains for AI in finance
 ---
 
 - [Numerai](https://numer.ai/) - Numerai is a hedge fund powered by a network of anonymous data scientists that build machine learning models to operate on encrypted data. stake cryptocurrency to express confidence in their models.
-- [Napoleon X](http://napoleonindex.com/) - Napoleon X is an open online computer driven asset management platform selecting quantitative strategies (trading bots) from world class traders, where each crypto-fund dedicated to a specific Asset Class.
+- [Napoleon X](https://www.napoleonx.ai/) - Napoleon X is an open online computer driven asset management platform selecting quantitative strategies (trading bots) from world class traders, where each crypto-fund dedicated to a specific Asset Class.
 - [Cindicator](https://cindicator.com/) - Cindicator is a crowd-sourced prediction engine for financial and crypto indicators. 
 
 Blockchains for IA in medicine
