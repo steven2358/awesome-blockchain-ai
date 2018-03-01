@@ -6,9 +6,10 @@ Blockchains for AI algorithms
 ---
 
 - [SingularityNET](https://singularitynet.io/) - SingularityNET is a distributed AI platform on the Ethereum blockchain, with each blockchain node backing up an AI algorithm.
-- [Intuition Fabric](http://intuitionfabric.com) - The goal of Intuition Fabric is to democratize access to AI through a network of deep learning models that are stored on the interplanetary file system and accessed through the Ethereum blockchain.
+- [Intuition Fabric](https://intuitionfabric.com) - The goal of Intuition Fabric is to democratize access to AI through a network of deep learning models that are stored on the interplanetary file system and accessed through the Ethereum blockchain.
 - [Cerebrum](https://cerebrum.world/) - Cerebrum is a decentralized platform for crowdsourced machine learning. Cerebrum enables anyone to encrypt their data and host machine learning competitions to utilize crowd-sourced machine learning models. 
 - [OpenMined](https://openmined.org/) - OpenMined is a community focused on building open-source technology for the decentralized ownership of data and intelligence. With OpenMined, AI can be trained on data that it never has access to.
+- [Effect.ai](https://effect.ai) Effect.ai is a blockchain-powered, decentralized platform for Artificial Intelligence development and AI related services.
 
 Blockchains for data
 ---
