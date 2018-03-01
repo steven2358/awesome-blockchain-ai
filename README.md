@@ -1,6 +1,7 @@
 Awesome Blockchain AI
 ===
-A curated list of Blockchain AI projects.
+
+A curated list of Blockchain Artificial Intelligence and Machine Learning projects.
 
 Blockchains for AI algorithms
 ---
@@ -16,6 +17,7 @@ Blockchains for data
 
 - [Ocean Protocol](https://oceanprotocol.com/) - Ocean Protocol is a decentralized data exchange protocol that lets people share and monetize data while guaranteeing control, auditability, transparency and compliance to all actors involved. Its network handles storing of the metadata (i.e. who owns what), links to the data itself, and more.
 - [starmine AI](http://starmine.ai/) - Starmine is a robust and highly scalable platform for constructing, trading and exchanging advanced algorithmically generated on-demand datasets for machine learning and artificial intelligence efforts.
+- [Trane AI](http://www.trane.ai/) - A decentralized economy for tagging, storing and modeling data for AI-training.
 
 Blockchains for computation
 ---
