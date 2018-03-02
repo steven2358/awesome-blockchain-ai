@@ -11,6 +11,8 @@ Blockchains for AI algorithms
 - [Cerebrum](https://cerebrum.world/) - Cerebrum is a decentralized platform for crowdsourced machine learning. Cerebrum enables anyone to encrypt their data and host machine learning competitions to utilize crowd-sourced machine learning models. 
 - [OpenMined](https://openmined.org/) - OpenMined is a community focused on building open-source technology for the decentralized ownership of data and intelligence. With OpenMined, AI can be trained on data that it never has access to.
 - [Effect.ai](https://effect.ai) - Effect.ai is a blockchain-powered, decentralized platform for Artificial Intelligence development and AI related services.
+- [Dopamine](https://dopamine.ai/) - Decentralized AI workforce and services marketplace.
+- [Decentralized Machine Learning](https://decentralizedml.com/) - DML aims to create a blockchain-based decentralized machine learning protocol and ecosystem.
 
 Blockchains for data
 ---
@@ -18,6 +20,7 @@ Blockchains for data
 - [Ocean Protocol](https://oceanprotocol.com/) - Ocean Protocol is a decentralized data exchange protocol that lets people share and monetize data while guaranteeing control, auditability, transparency and compliance to all actors involved. Its network handles storing of the metadata (i.e. who owns what), links to the data itself, and more.
 - [starmine AI](http://starmine.ai/) - Starmine is a robust and highly scalable platform for constructing, trading and exchanging advanced algorithmically generated on-demand datasets for machine learning and artificial intelligence efforts.
 - [Trane AI](http://www.trane.ai/) - A decentralized economy for tagging, storing and modeling data for AI-training.
+- [Neuromation](https://neuromation.io/) - Synthetic datasets generation and algorithm training platform.
 
 Blockchains for computation
 ---
@@ -36,3 +39,4 @@ Blockchains for AI in medicine
 ---
 
 - [doc.ai](https://doc.ai/about) - doc.ai aims to decentralize precision medicine on the blockchain by using AI.
+- [BurstIQ](https://www.burstiq.com/) - Healthcare data marketplace.
