@@ -22,6 +22,7 @@ Blockchains for data
 Blockchains for computation
 ---
 
+- [Neureal](https://neureal.net/) - Open source, peer-to-peer AI supercomputing powered by blockchain.
 - [TrueBit](https://truebit.io/) - TrueBit gives Ethereum smart contracts a computational boost.
 
 Blockchains for AI in finance
