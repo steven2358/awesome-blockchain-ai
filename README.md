@@ -13,6 +13,7 @@ Blockchains for AI algorithms
 - [Effect.ai](https://effect.ai) - Effect.ai is a blockchain-powered, decentralized platform for Artificial Intelligence development and AI related services.
 - [Dopamine](https://dopamine.ai/) - Decentralized AI workforce and services marketplace.
 - [Decentralized Machine Learning](https://decentralizedml.com/) - DML aims to create a blockchain-based decentralized machine learning protocol and ecosystem.
+- [Raven Protocol](https://www.ravenprotocol.com/) - Raven Protocol is a decentralized and distributed deep-learning training protocol.
 
 Blockchains for data
 ---
