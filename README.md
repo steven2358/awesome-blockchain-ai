@@ -14,6 +14,7 @@ Blockchains for AI algorithms
 - [Dopamine](https://dopamine.ai/) - Decentralized AI workforce and services marketplace.
 - [Decentralized Machine Learning](https://decentralizedml.com/) - DML aims to create a blockchain-based decentralized machine learning protocol and ecosystem.
 - [Raven Protocol](https://www.ravenprotocol.com/) - Raven Protocol is a decentralized and distributed deep-learning training protocol.
+- [Thought Network](https://thought.live/) - Thought's blockchain-enabled Fabric fundamentally changes applications by embedding artificial intelligence into every bit of data making it agile, actionable and inherently secure.
 
 Blockchains for data
 ---
