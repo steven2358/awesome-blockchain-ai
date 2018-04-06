@@ -24,6 +24,7 @@ Blockchains for data
 - [starmine AI](http://starmine.ai/) - Starmine is a robust and highly scalable platform for constructing, trading and exchanging advanced algorithmically generated on-demand datasets for machine learning and artificial intelligence efforts.
 - [Trane AI](http://www.trane.ai/) - A decentralized economy for tagging, storing and modeling data for AI-training.
 - [Neuromation](https://neuromation.io/) - Synthetic datasets generation and algorithm training platform.
+- [BOTTOS AI](https://bottos.org/) - A decentralized AI data sharing network that uses a consensus-based application platform to allow AI projects to gather training data.
 
 Blockchains for computation
 ---
