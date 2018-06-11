@@ -31,11 +31,12 @@ Blockchains for computation
 
 - [Neureal](https://neureal.net/) - Open source, peer-to-peer AI supercomputing powered by blockchain.
 - [TrueBit](https://truebit.io/) - TrueBit gives Ethereum smart contracts a computational boost.
+- [DeepBrain Chain](https://www.deepbrainchain.org/) - A decentralized AI computing platform that supplies processing power to companies looking to develop A.I. technologies.
 
 Blockchains for AI in finance
 ---
 
-- [Numerai](https://numer.ai/) - Numerai is a hedge fund powered by a network of anonymous data scientists that build machine learning models to operate on encrypted data. stake cryptocurrency to express confidence in their models.
+- [Numerai](https://numer.ai/) - Numerai is a hedge fund powered by a network of anonymous data scientists that build machine learning models to operate on encrypted data and stake cryptocurrency to express confidence in their models.
 - [Napoleon X](https://www.napoleonx.ai/) - Napoleon X is an open online computer driven asset management platform selecting quantitative strategies (trading bots) from world class traders, where each crypto-fund dedicated to a specific Asset Class.
 - [Cindicator](https://cindicator.com/) - Cindicator is a crowd-sourced prediction engine for financial and crypto indicators. 
 
@@ -44,3 +45,8 @@ Blockchains for AI in medicine
 
 - [doc.ai](https://doc.ai/about) - doc.ai aims to decentralize precision medicine on the blockchain by using AI.
 - [BurstIQ](https://www.burstiq.com/) - Healthcare data marketplace.
+
+Blockchains for AI in supply chains
+---
+
+- [Namahe](https://namahe.io/) - Namahe is platform that aims to bring efficiency to supply chain industries by incorporating an A.I. layer.
