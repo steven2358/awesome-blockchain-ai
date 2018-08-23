@@ -15,7 +15,8 @@ Blockchains for AI algorithms
 - [Decentralized Machine Learning](https://decentralizedml.com/) - DML aims to create a blockchain-based decentralized machine learning protocol and ecosystem.
 - [Raven Protocol](https://www.ravenprotocol.com/) - Raven Protocol is a decentralized and distributed deep-learning training protocol.
 - [Thought Network](https://thought.live/) - Thought's blockchain-enabled Fabric fundamentally changes applications by embedding artificial intelligence into every bit of data making it agile, actionable and inherently secure.
-- [MATRIX AI](https://www.matrix.io/) - MATRIX is a platform which incorporates blockchain and AI to enable the realization of the Intelligent Blockchain. 
+- [MATRIX AI](https://www.matrix.io/) - MATRIX is a platform which incorporates blockchain and AI to enable the realization of the Intelligent Blockchain.
+- [Pandora Boxchain](https://pandoraboxchain.ai/) - A marketplace for AI kernels, computations and big data powered by Proof of Cognitive Work (PoCW).
 
 Blockchains for data
 ---
