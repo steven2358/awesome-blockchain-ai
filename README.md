@@ -1,7 +1,7 @@
 Awesome Blockchain AI
 ===
 
-A curated list of Blockchain Artificial Intelligence and Machine Learning projects.
+A curated list of Blockchain projects for Artificial Intelligence and Machine Learning.
 
 Blockchains for AI algorithms
 ---
