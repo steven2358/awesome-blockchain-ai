@@ -1,4 +1,4 @@
-# Awesome Blockchain AI [![Awesome][![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Blockchain AI  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of Blockchain projects for Artificial Intelligence and Machine Learning.
 
