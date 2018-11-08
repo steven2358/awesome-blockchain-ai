@@ -2,14 +2,23 @@
 
 > A curated list of Blockchain projects for Artificial Intelligence and Machine Learning.
 
+This list explores awesome projects that exploit the properties of blockchain technologies (decentralization, immutability, smart contracts, etc.) to build the next generation of AI systems.
+
 ## Contents
 
+- [Recommended reading](#recommended-reading)
 - [Blockchains for AI algorithms](#blockchains-for-ai-algorithms)
 - [Blockchains for data](#blockchains-for-data)
 - [Blockchains for computation](#blockchains-for-computation)
 - [Blockchains for AI in finance](#blockchains-for-ai-in-finance)
 - [Blockchains for AI in medicine](#blockchains-for-ai-in-medicine)
 - [Blockchains for AI in supply chains](#blockchains-for-ai-in-supply-chains)
+
+## Recommended reading
+
+- [How the Blockchain Could Break Big Tech’s Hold on A.I.](https://www.nytimes.com/2018/10/20/technology/how-the-blockchain-could-break-big-techs-hold-on-ai.html), New York Times, October 20, 2018.
+- [How to Actually Combine AI and Blockchain in One Platform](https://hackernoon.com/how-to-actually-combine-ai-and-blockchain-in-one-platform-ef937e919ec2), Hacker Noon, June 7, 2018.
+- [The convergence of AI and Blockchain: what’s the deal?](https://medium.com/@Francesco_AI/the-convergence-of-ai-and-blockchain-whats-the-deal-60c618e3accc), Francesco Corea, December 1, 2017.
 
 ## Blockchains for AI algorithms
 
@@ -59,4 +68,4 @@
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Steven Van Vaerenbergh](http://github.com/steven2358) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [Steven Van Vaerenbergh](https://github.com/steven2358) has waived all copyright and related or neighboring rights to this work.
