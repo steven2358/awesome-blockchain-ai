@@ -55,6 +55,7 @@ This list explores awesome projects that exploit the properties of blockchain te
 - [Numerai](https://numer.ai/) - Numerai is a hedge fund powered by a network of anonymous data scientists that build machine learning models to operate on encrypted data and stake cryptocurrency to express confidence in their models.
 - [Napoleon X](https://www.napoleonx.ai/) - Napoleon X is an open online computer driven asset management platform selecting quantitative strategies (trading bots) from world class traders, where each crypto-fund dedicated to a specific Asset Class.
 - [Cindicator](https://cindicator.com/) - Cindicator is a crowd-sourced prediction engine for financial and crypto indicators. 
+- [Erasure](https://erasure.xxx/) - Erasure is a decentralized protocol and data marketplace for financial predictions.
 
 ## Blockchains for AI in medicine
 
