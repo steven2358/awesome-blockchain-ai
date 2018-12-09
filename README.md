@@ -18,6 +18,7 @@ This list explores awesome projects that exploit the properties of blockchain te
 
 - [How the Blockchain Could Break Big Tech’s Hold on A.I.](https://www.nytimes.com/2018/10/20/technology/how-the-blockchain-could-break-big-techs-hold-on-ai.html) - New York Times, October 20, 2018.
 - [How to Actually Combine AI and Blockchain in One Platform](https://hackernoon.com/how-to-actually-combine-ai-and-blockchain-in-one-platform-ef937e919ec2) - Hacker Noon, June 7, 2018.
+- [Blockchain-based Machine Learning Marketplaces](https://medium.com/@FEhrsam/blockchain-based-machine-learning-marketplaces-cb2d4dae2c17) - Fred Ehrsam, March 13, 2018.
 - [The convergence of AI and Blockchain: what’s the deal?](https://medium.com/@Francesco_AI/the-convergence-of-ai-and-blockchain-whats-the-deal-60c618e3accc) - Francesco Corea, December 1, 2017.
 
 ## Blockchains for AI algorithms
