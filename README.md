@@ -44,6 +44,7 @@ This list explores awesome projects that exploit the properties of blockchain te
 - [Neuromation](https://neuromation.io/) - Synthetic datasets generation and algorithm training platform.
 - [BOTTOS AI](https://bottos.org/) - A decentralized AI data sharing network that uses a consensus-based application platform to allow AI projects to gather training data.
 - [Computable](https://www.computable.io/) - A decentralized data marketplace for artificial intelligence applications.
+- [Synapse AI](https://blog.synapse.ai/) - A decentralized global data marketplace built on the Ethereum blockchain.
 
 ## Blockchains for computation
 
