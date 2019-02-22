@@ -16,6 +16,14 @@ This list explores awesome projects that exploit the properties of blockchain te
 
 ## Recommended reading
 
+### Wikipedia
+
+- [Blockchain](https://en.wikipedia.org/wiki/Blockchain): "A blockchain is a growing list of records, called blocks, which are linked using cryptography."
+- [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence): "In the field of computer science, artificial intelligence (AI), sometimes called machine intelligence, is intelligence demonstrated by machines, in contrast to the natural intelligence displayed by humans and other animals."
+- [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning): "Machine learning (ML) is the scientific study of algorithms and statistical models that computer systems use to effectively perform a specific task without using explicit instructions, relying on patterns and inference instead."
+
+### Blockchain, AI and Machine Learning
+
 - [How the Blockchain Could Break Big Tech’s Hold on A.I.](https://www.nytimes.com/2018/10/20/technology/how-the-blockchain-could-break-big-techs-hold-on-ai.html) - New York Times, October 20, 2018.
 - [How to Actually Combine AI and Blockchain in One Platform](https://hackernoon.com/how-to-actually-combine-ai-and-blockchain-in-one-platform-ef937e919ec2) - Hacker Noon, June 7, 2018.
 - [Blockchain-based Machine Learning Marketplaces](https://medium.com/@FEhrsam/blockchain-based-machine-learning-marketplaces-cb2d4dae2c17) - Fred Ehrsam, March 13, 2018.
