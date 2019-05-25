@@ -24,10 +24,15 @@ This list explores awesome projects that exploit the properties of blockchain te
 
 ### Blockchain, AI and Machine Learning
 
+- [Decentralizing AI: Dreamers vs. Pragmatists.](https://towardsdatascience.com/decentralizing-ai-dreamers-vs-pragmatists-230c48d1b350) - Jesus Rodriguez, May 23, 2019.
 - [How the Blockchain Could Break Big Tech’s Hold on A.I.](https://www.nytimes.com/2018/10/20/technology/how-the-blockchain-could-break-big-techs-hold-on-ai.html) - New York Times, October 20, 2018.
 - [How to Actually Combine AI and Blockchain in One Platform](https://hackernoon.com/how-to-actually-combine-ai-and-blockchain-in-one-platform-ef937e919ec2) - Hacker Noon, June 7, 2018.
 - [Blockchain-based Machine Learning Marketplaces](https://medium.com/@FEhrsam/blockchain-based-machine-learning-marketplaces-cb2d4dae2c17) - Fred Ehrsam, March 13, 2018.
 - [The convergence of AI and Blockchain: what’s the deal?](https://medium.com/@Francesco_AI/the-convergence-of-ai-and-blockchain-whats-the-deal-60c618e3accc) - Francesco Corea, December 1, 2017.
+
+## Foundations
+
+- [Decentralized AI Alliance (DAIA).](https://daia.foundation/) DAIA is an alliance of serious participants in the AI & blockchain related ecosystem, coming together to collectively solve common challenges and create an amazing future.
 
 ## Blockchains for AI algorithms
 
@@ -53,6 +58,7 @@ This list explores awesome projects that exploit the properties of blockchain te
 - [BOTTOS AI](https://bottos.org/) - A decentralized AI data sharing network that uses a consensus-based application platform to allow AI projects to gather training data.
 - [Computable](https://www.computable.io/) - A decentralized data marketplace for artificial intelligence applications.
 - [Synapse AI](https://blog.synapse.ai/) - A decentralized global data marketplace built on the Ethereum blockchain.
+- [Neuromation.](https://neuromation.io/) - Distributed synthetic data platform for Deep Learning Applications.
 
 ## Blockchains for computation
 
