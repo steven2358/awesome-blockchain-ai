@@ -7,6 +7,7 @@ This list explores awesome projects that exploit the properties of blockchain te
 ## Contents
 
 - [Recommended reading](#recommended-reading)
+- [Foundations](#foundations)
 - [Blockchains for AI algorithms](#blockchains-for-ai-algorithms)
 - [Blockchains for data](#blockchains-for-data)
 - [Blockchains for computation](#blockchains-for-computation)
@@ -41,7 +42,6 @@ This list explores awesome projects that exploit the properties of blockchain te
 - [Cerebrum](https://cerebrum.world/) - Cerebrum is a decentralized platform for crowdsourced machine learning. Cerebrum enables anyone to encrypt their data and host machine learning competitions to utilize crowd-sourced machine learning models. 
 - [OpenMined](https://openmined.org/) - OpenMined is a community focused on building open-source technology for the decentralized ownership of data and intelligence. With OpenMined, AI can be trained on data that it never has access to.
 - [Effect.ai](https://effect.ai) - Effect.ai is a blockchain-powered, decentralized platform for Artificial Intelligence development and AI related services.
-- [Dopamine](https://dopamine.ai/) - Decentralized AI workforce and services marketplace.
 - [Decentralized Machine Learning](https://decentralizedml.com/) - DML aims to create a blockchain-based decentralized machine learning protocol and ecosystem.
 - [Raven Protocol](https://www.ravenprotocol.com/) - Raven Protocol is a decentralized and distributed deep-learning training protocol.
 - [Thought Network](https://thought.live/) - Thought's blockchain-enabled Fabric fundamentally changes applications by embedding artificial intelligence into every bit of data making it agile, actionable and inherently secure.
@@ -65,6 +65,7 @@ This list explores awesome projects that exploit the properties of blockchain te
 - [Neureal](https://neureal.net/) - Open source, peer-to-peer AI supercomputing powered by blockchain.
 - [TrueBit](https://truebit.io/) - TrueBit gives Ethereum smart contracts a computational boost.
 - [DeepBrain Chain](https://www.deepbrainchain.org/) - A decentralized AI computing platform that supplies processing power to companies looking to develop A.I. technologies.
+- [AI Crypto](https://aicrypto.ai/) - AI Crypto is a blockchain-based ecosystem where AI resources such as GPU, models, and data are distributed in order to lower the cost of AI development.
 
 ## Blockchains for AI in finance
 
@@ -81,6 +82,12 @@ This list explores awesome projects that exploit the properties of blockchain te
 ## Blockchains for AI in supply chains
 
 - [Namahe](https://namahe.io/) - Namahe is platform that aims to bring efficiency to supply chain industries by incorporating an A.I. layer.
+
+## Deadpool
+
+These projects are not active anymore.
+
+- [Dopamine](https://dopamine.ai/) - Decentralized AI workforce and services marketplace.
 
 ## License
 
