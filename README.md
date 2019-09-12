@@ -14,6 +14,7 @@ This list explores awesome projects that exploit the properties of blockchain te
 - [Blockchains for AI in finance](#blockchains-for-ai-in-finance)
 - [Blockchains for AI in medicine](#blockchains-for-ai-in-medicine)
 - [Blockchains for AI in supply chains](#blockchains-for-ai-in-supply-chains)
+- [Projects using AI and blockchains](#projects-using-ai-and-blockchains)
 
 ## Recommended reading
 
@@ -81,6 +82,10 @@ This list explores awesome projects that exploit the properties of blockchain te
 ## Blockchains for AI in supply chains
 
 - [Namahe](https://namahe.io/) - Namahe is platform that aims to bring efficiency to supply chain industries by incorporating an A.I. layer.
+
+## Projects using AI and blockchains
+
+- [Decentralized & Collaborative AI on Blockchain](https://github.com/microsoft/0xDeCA10B) - a framework and examples to train publicly available machine learning models in smart contracts with incentive mechanisms to encourage good quality training data while keeping the models free to use for prediction.
 
 ## Deadpool
 
