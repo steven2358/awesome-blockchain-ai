@@ -14,7 +14,6 @@ This list explores awesome projects that exploit the properties of blockchain te
 - [Blockchains for AI in finance](#blockchains-for-ai-in-finance)
 - [Blockchains for AI in medicine](#blockchains-for-ai-in-medicine)
 - [Blockchains for AI in supply chains](#blockchains-for-ai-in-supply-chains)
-- [Projects using AI and blockchains](#projects-using-ai-and-blockchains)
 
 ## Recommended reading
 
@@ -51,6 +50,10 @@ This list explores awesome projects that exploit the properties of blockchain te
 - [Fitchain](https://fitchain.io/) - Fitchain is a blockchain-based machine learning factory that allows data scientists to train models, tracing them from inception and throughout their lifetime.
 - [Cortex Labs](https://www.cortexlabs.ai/) - Cortex Labs is a decentralized AI platform with a virtual machine that allows you to execute AI programs on-chain.
 
+### Blockchain projects for AI algorithms
+- [Danku](https://github.com/algorithmiaio/danku) - A blockchain-based protocol for evaluating and purchasing ML models on a public blockchain such as Ethereum. [Blog post.](https://algorithmia.com/research/ml-models-on-blockchain)
+- [Decentralized & Collaborative AI on Blockchain](https://github.com/microsoft/0xDeCA10B) - 0xDeCA10B is a framework to host and train publicly available machine learning models in smart contracts with incentive mechanisms to encourage good quality training data while keeping the models free to use for prediction. [Blog post.](https://www.microsoft.com/en-us/research/blog/leveraging-blockchain-to-make-machine-learning-models-more-accessible/)
+
 ## Blockchains for data
 
 - [Ocean Protocol](https://oceanprotocol.com/) - Ocean Protocol is a decentralized data exchange protocol that lets people share and monetize data while guaranteeing control, auditability, transparency and compliance to all actors involved. Its network handles storing of the metadata (i.e. who owns what), links to the data itself, and more.
@@ -82,10 +85,6 @@ This list explores awesome projects that exploit the properties of blockchain te
 ## Blockchains for AI in supply chains
 
 - [Namahe](https://namahe.io/) - Namahe is platform that aims to bring efficiency to supply chain industries by incorporating an A.I. layer.
-
-## Projects using AI and blockchains
-
-- [Decentralized & Collaborative AI on Blockchain](https://github.com/microsoft/0xDeCA10B) - a framework and examples to train publicly available machine learning models in smart contracts with incentive mechanisms to encourage good quality training data while keeping the models free to use for prediction.
 
 ## Deadpool
 
