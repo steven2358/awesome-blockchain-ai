@@ -81,6 +81,7 @@ This list explores awesome projects that exploit the properties of blockchain te
 
 - [doc.ai](https://doc.ai/about) - doc.ai aims to decentralize precision medicine on the blockchain by using AI.
 - [BurstIQ](https://www.burstiq.com/) - Healthcare data marketplace with granular ownership and granular consent of data. By using on-chain storage on a custom blockchain, BurstIQ can comply with HIPAA, GDPR, and other regulations.
+- [Vytalyx](https://vytalyx.io/) - Vytalyx is a health technology company that plans to use AI and blockchain to store and analyse medical data.
 
 ## Blockchains for AI in supply chains
 
