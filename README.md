@@ -62,6 +62,7 @@ This list explores awesome projects that exploit the properties of blockchain te
 - [Computable](https://www.computable.io/) - A decentralized data marketplace for artificial intelligence applications.
 - [Synapse AI](https://blog.synapse.ai/) - A decentralized global data marketplace built on the Ethereum blockchain.
 - [Neuromation.](https://neuromation.io/) - Distributed synthetic data platform for Deep Learning Applications.
+- [Cyber](https://github.com/cybercongress) - A decentralized search engine, able to learn from knowledge graphs and provide predictable models of the universe.
 
 ## Blockchains for computation
 
