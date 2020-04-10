@@ -45,7 +45,7 @@ This list explores awesome projects that exploit the properties of blockchain te
 - [Decentralized Machine Learning](https://decentralizedml.com/) - DML aims to create a blockchain-based decentralized machine learning protocol and ecosystem.
 - [Raven Protocol](https://www.ravenprotocol.com/) - Raven Protocol is a decentralized and distributed deep-learning training protocol.
 - [Thought Network](https://thought.live/) - Thought's blockchain-enabled Fabric fundamentally changes applications by embedding artificial intelligence into every bit of data making it agile, actionable and inherently secure.
-- [MATRIX AI](https://www.matrix.io/) - MATRIX is a platform which incorporates blockchain and AI to enable the realization of the Intelligent Blockchain.
+- [MATRIX AI](https://www.matrix.io/) - The Matrix AI Network is a public chain that combines AI technology with blockchain technology to solve the major challenges currently stifling the development and adoption of blockchain technology. Matrix is poised to revolutionize and democratize the field of Artificial Intelligence using a blockchain-powered decentralized computing platform.
 - [Pandora Boxchain](https://pandoraboxchain.ai/) - A marketplace for AI kernels, computations and big data powered by Proof of Cognitive Work (PoCW).
 - [Fitchain](https://fitchain.io/) - Fitchain is a blockchain-based machine learning factory that allows data scientists to train models, tracing them from inception and throughout their lifetime.
 - [Cortex Labs](https://www.cortexlabs.ai/) - Cortex Labs is a decentralized AI platform with a virtual machine that allows you to execute AI programs on-chain.
