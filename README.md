@@ -65,6 +65,7 @@ This list explores awesome projects that exploit the properties of blockchain te
 
 - [Neureal](https://neureal.net/) - Open source, peer-to-peer AI supercomputing powered by blockchain.
 - [TrueBit](https://truebit.io/) - TrueBit gives Ethereum smart contracts a computational boost.
+- [DeepBrain Chain](https://www.deepbrainchain.org/) - A decentralized AI computing platform that supplies processing power to companies looking to develop A.I. technologies.
 - [AI Crypto](https://aicrypto.ai/) - AI Crypto is a blockchain-based ecosystem where AI resources such as GPU, models, and data are distributed in order to lower the cost of AI development.
 
 ## Blockchains for AI in finance
@@ -89,7 +90,6 @@ These projects are not active anymore.
 - [Dopamine](https://dopamine.ai/) - Decentralized AI workforce and services marketplace.
 - [Trane AI](http://www.trane.ai/) - A decentralized economy for tagging, storing and modeling data for AI-training.
 - [starmine AI](http://starmine.ai/) - Starmine is a robust and highly scalable platform for constructing, trading and exchanging advanced algorithmically generated on-demand datasets for machine learning and artificial intelligence efforts.
-- [DeepBrain Chain](https://www.deepbrainchain.org/) - A decentralized AI computing platform that supplies processing power to companies looking to develop A.I. technologies.
 - [Cerebrum](https://cerebrum.world/) - Cerebrum is a decentralized platform for crowdsourced machine learning. Cerebrum enables anyone to encrypt their data and host machine learning competitions to utilize crowd-sourced machine learning models. 
 - [Fitchain](https://fitchain.io/) - Fitchain is a blockchain-based machine learning factory that allows data scientists to train models, tracing them from inception and throughout their lifetime.
 - [Namahe](https://namahe.io/) - Namahe is platform that aims to bring efficiency to supply chain industries by incorporating an A.I. layer.
