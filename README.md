@@ -14,6 +14,7 @@ This list explores awesome projects that exploit the properties of blockchain te
 - [Blockchains for AI in finance](#blockchains-for-ai-in-finance)
 - [Blockchains for AI in medicine](#blockchains-for-ai-in-medicine)
 - [Blockchains for AI in supply chains](#blockchains-for-ai-in-supply-chains)
+- [Academic Research](#academic-research)
 
 ## Recommended reading
 
@@ -82,6 +83,17 @@ This list explores awesome projects that exploit the properties of blockchain te
 - [Vytalyx](https://vytalyx.io/) - Vytalyx is a health technology company that plans to use AI and blockchain to store and analyse medical data.
 
 ## Blockchains for AI in supply chains
+
+## Academic Research
+- [Coin.AI](https://doi.org/10.3390/e21080723) - Baldominos, A., & Saez, Y. (2019). Coin.AI: A proof-of-useful-work scheme for blockchain-based distributed deep learning. *Entropy*, 21(8), 723.
+- [WekaCoin](https://doi.org/10.1109/DAPPCON.2019.00023) - Bravo-Marquez, F., Reeves, S., & Ugarte, M. (2019, April). Proof-of-learning: a blockchain consensus mechanism based on machine learning competitions. In *2019 IEEE International Conference on Decentralized Applications and Infrastructures (DAPPCON)* (pp. 119-124). IEEE.
+- [Deep Learning-Based Consensus](https://arxiv.org/abs/1904.07349) - Li, B., Chenli, C., Xu, X., Shi, Y., & Jung, T. (2019). DLBC: A Deep Learning-Based Consensus in Blockchains for Deep Learning Services. *arXiv preprint arXiv:1904.07349*.
+- [Proof of Deep Learning](https://doi.org/10.1109/BLOC.2019.8751419) - Chenli, C., Li, B., Shi, Y., & Jung, T. (2019, May). Energy-recycling blockchain with proof-of-deep-learning. In *2019 IEEE International Conference on Blockchain and Cryptocurrency (ICBC)* (pp. 19-23). IEEE.
+- [BlockML](https://doi.org/10.1145/3366624.3368156) - Merlina, A. (2019, December). BlockML: a useful proof of work system based on machine learning tasks. In *Proceedings of the 20th International Middleware Conference Doctoral Symposium* (pp. 6-8).
+- [Convergence of AI and DLT](https://doi.org/10.1109/ACCESS.2020.2981447) - Pandl, K. D., Thiebes, S., Schmidt-Kraepelin, M., & Sunyaev, A. (2020). On the convergence of artificial intelligence and distributed ledger technology: A scoping review and future research agenda. *IEEE Access*, 8, 57075-57095.
+- [Hyperparameter Optimization](https://doi.org/10.3389/fbloc.2020.00023) - Mittal, A., & Aggarwal, S. (2020). Hyperparameter optimization using sustainable proof of work in blockchain. *Frontiers in Blockchain*, 3, 23.
+- [Proof of Federated Learning](https://doi.org/10.1109/TPDS.2021.3056773) - Qu, X., Wang, S., Hu, Q., & Cheng, X. (2021). Proof of federated learning: A novel energy-recycling consensus algorithm. *IEEE Transactions on Parallel and Distributed Systems*, 32(8), 2074-2085.
+- [Proof of neural architecture](https://doi.org/10.1109/ICBC51069.2021.9461067) - Li, B., Lu, Q., Jiang, W., Jung, T., & Shi, Y. (2021, May). A mining pool solution for novel proof-of-neural-architecture consensus. In *2021 IEEE International Conference on Blockchain and Cryptocurrency (ICBC)* (pp. 1-3). IEEE.
 
 ## Deadpool
 
