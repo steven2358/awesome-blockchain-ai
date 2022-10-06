@@ -96,6 +96,9 @@ This list explores awesome projects that exploit the properties of blockchain te
 - [Proof of Federated Learning](https://doi.org/10.1109/TPDS.2021.3056773) - Qu, X., Wang, S., Hu, Q., & Cheng, X. (2021). Proof of federated learning: A novel energy-recycling consensus algorithm. *IEEE Transactions on Parallel and Distributed Systems*, 32(8), 2074-2085.
 - [Proof of neural architecture](https://doi.org/10.1109/ICBC51069.2021.9461067) - Li, B., Lu, Q., Jiang, W., Jung, T., & Shi, Y. (2021, May). A mining pool solution for novel proof-of-neural-architecture consensus. In *2021 IEEE International Conference on Blockchain and Cryptocurrency (ICBC)* (pp. 1-3). IEEE.
 
+## Libraries & Resources
+- [Explore Blockchain](https://kandi.openweaver.com/explore/blockchain) - Discover & find a curated list of popular & new Blockchain libraries, top authors, trending project kits, discussions, tutorials & learning resources on kandi
+
 ## Deadpool
 
 These projects are not active anymore.
