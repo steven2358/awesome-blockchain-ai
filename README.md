@@ -83,20 +83,6 @@ This list explores awesome projects that exploit the properties of blockchain te
 - [Proof of Federated Learning](https://doi.org/10.1109/TPDS.2021.3056773) - Qu, X., Wang, S., Hu, Q., & Cheng, X. (2021). Proof of federated learning: A novel energy-recycling consensus algorithm. *IEEE Transactions on Parallel and Distributed Systems*, 32(8), 2074-2085.
 - [Proof of neural architecture](https://doi.org/10.1109/ICBC51069.2021.9461067) - Li, B., Lu, Q., Jiang, W., Jung, T., & Shi, Y. (2021, May). A mining pool solution for novel proof-of-neural-architecture consensus. In *2021 IEEE International Conference on Blockchain and Cryptocurrency (ICBC)* (pp. 1-3). IEEE.
 
-## Deadpool
-
-These projects are not active anymore.
-
-- [Dopamine](https://dopamine.ai/) - Decentralized AI workforce and services marketplace.
-- [Trane AI](http://www.trane.ai/) - A decentralized economy for tagging, storing and modeling data for AI-training.
-- [starmine AI](http://starmine.ai/) - Starmine is a robust and highly scalable platform for constructing, trading and exchanging advanced algorithmically generated on-demand datasets for machine learning and artificial intelligence efforts.
-- [Cerebrum](https://cerebrum.world/) - Cerebrum is a decentralized platform for crowdsourced machine learning. Cerebrum enables anyone to encrypt their data and host machine learning competitions to utilize crowd-sourced machine learning models. 
-- [Fitchain](https://fitchain.io/) - Fitchain is a blockchain-based machine learning factory that allows data scientists to train models, tracing them from inception and throughout their lifetime.
-- [Namahe](https://namahe.io/) - Namahe is platform that aims to bring efficiency to supply chain industries by incorporating an A.I. layer.
-- [Pandora Boxchain](https://pandoraboxchain.ai/) - A marketplace for AI kernels, computations and big data powered by Proof of Cognitive Work (PoCW).
-- [Decentralized Machine Learning](https://decentralizedml.com/) - DML aims to create a blockchain-based decentralized machine learning protocol and ecosystem.
-- [Computable](https://www.computable.io/) - A decentralized data marketplace for artificial intelligence applications.
-
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
