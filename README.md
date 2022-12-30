@@ -65,6 +65,7 @@ This list explores awesome projects that exploit the properties of blockchain te
 - [TrueBit](https://truebit.io/) - TrueBit gives Ethereum smart contracts a computational boost.
 - [DeepBrain Chain](https://www.deepbrainchain.org/) - A decentralized AI computing platform that supplies processing power to companies looking to develop A.I. technologies.
 - [AI Crypto](https://aicrypto.ai/) - AI Crypto is a blockchain-based ecosystem where AI resources such as GPU, models, and data are distributed in order to lower the cost of AI development.
+- [Nunet](https://www.nunet.io/) - A globally decentralized computing framework that combines latent computing power of independently owned compute devices across the globe into a dynamic marketplace of compute resources.
 
 ## Blockchains for AI in finance
 
