@@ -41,6 +41,7 @@ This list explores awesome projects that exploit the properties of blockchain te
 - [MATRIX AI](https://www.matrix.io/) - The Matrix AI Network is a public chain that combines AI technology with blockchain technology to solve the major challenges currently stifling the development and adoption of blockchain technology. Matrix is poised to revolutionize and democratize the field of Artificial Intelligence using a blockchain-powered decentralized computing platform.
 - [Cortex Labs](https://www.cortexlabs.ai/) - Cortex Labs is a decentralized AI platform with a virtual machine that allows you to execute AI programs on-chain.
 - [Fetch.ai](https://fetch.ai/) - Fetch.ai is a decentralized machine learning platform based on a distributed ledger, that enables secure sharing, connection and transactions based on any data globally.
+- [Oraichain](https://orai.io/) - Oraichain is the world's first intelligent and secure solution for emerging Web3, scalable Dapps, and decentralized AI.
 
 ### Blockchain projects for AI algorithms
 - [Danku](https://github.com/algorithmiaio/danku) - A blockchain-based protocol for evaluating and purchasing ML models on a public blockchain such as Ethereum. [Blog post.](https://algorithmia.com/research/ml-models-on-blockchain)
