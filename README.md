@@ -42,6 +42,7 @@ This list explores awesome projects that exploit the properties of blockchain te
 - [Cortex Labs](https://www.cortexlabs.ai/) - Cortex Labs is a decentralized AI platform with a virtual machine that allows you to execute AI programs on-chain.
 - [Fetch.ai](https://fetch.ai/) - Fetch.ai is a decentralized machine learning platform based on a distributed ledger, that enables secure sharing, connection and transactions based on any data globally.
 - [Oraichain](https://orai.io/) - Oraichain is the world's first intelligent and secure solution for emerging Web3, scalable Dapps, and decentralized AI.
+- [Tau Net and Agoras](https://tau.net/) - Tau Net and Agoras ($AGRS) use Tau’s logic based AI-synthesis for enabling a blockchain that updates based on user consensus, granting its collective user base collaborative control over network and tokenomics. Furthermore, Tau Net's knowledge representation capabilities will facilitate the trade of knowledge, computer resources, and financial instruments for $AGRS.
 
 ### Blockchain projects for AI algorithms
 - [Danku](https://github.com/algorithmiaio/danku) - A blockchain-based protocol for evaluating and purchasing ML models on a public blockchain such as Ethereum. [Blog post.](https://algorithmia.com/research/ml-models-on-blockchain)
