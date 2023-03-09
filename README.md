@@ -25,6 +25,7 @@ This list explores awesome projects that exploit the properties of blockchain te
 
 ### Blockchain, AI and Machine Learning
 
+- [On Decentralized AI](https://cyb.ai/ipfs/QmVcAr1wVdL17GfA5PXu9fHHk6NrpoWsxnb861P7CjoHbk) - Dima Starodubcev, Feb 21, 2023
 - [Decentralizing AI: Dreamers vs. Pragmatists.](https://www.linkedin.com/pulse/decentralizing-ai-dreamers-vs-pragmatists-jesus-rodriguez) - Jesus Rodriguez, May 23, 2019.
 - [How the Blockchain Could Break Big Tech's Hold on A.I.](https://www.nytimes.com/2018/10/20/technology/how-the-blockchain-could-break-big-techs-hold-on-ai.html) - New York Times, October 20, 2018.
 - [How to Actually Combine AI and Blockchain in One Platform](https://hackernoon.com/how-to-actually-combine-ai-and-blockchain-in-one-platform-ef937e919ec2) - Hacker Noon, June 7, 2018.
