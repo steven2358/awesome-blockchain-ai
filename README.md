@@ -20,6 +20,7 @@ This list explores awesome projects that exploit the properties of blockchain te
 ### Wikipedia
 
 - [Blockchain](https://en.wikipedia.org/wiki/Blockchain) - "A blockchain is a growing list of records, called blocks, which are linked using cryptography."
+  - [Blockchain Developer Roadmap](https://roadmap.sh/blockchain) - "A complete guide to become a Blockchain Developer."
 - [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence) - "In the field of computer science, artificial intelligence (AI), sometimes called machine intelligence, is intelligence demonstrated by machines, in contrast to the natural intelligence displayed by humans and other animals."
 - [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning) - "Machine learning (ML) is the scientific study of algorithms and statistical models that computer systems use to effectively perform a specific task without using explicit instructions, relying on patterns and inference instead."
 
