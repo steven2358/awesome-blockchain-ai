@@ -43,6 +43,7 @@ This list explores awesome projects that exploit the properties of blockchain te
 - [Fetch.ai](https://fetch.ai/) - Fetch.ai is a decentralized machine learning platform based on a distributed ledger, that enables secure sharing, connection and transactions based on any data globally.
 - [Oraichain](https://orai.io/) - Oraichain is the world's first intelligent and secure solution for emerging Web3, scalable Dapps, and decentralized AI.
 - [Bittensor](https://bittensor.com/) - Bittensor is an open-source protocol that powers a decentralized, blockchain-based machine learning network. [Related resources.](https://taostats.io/links/)
+- [Alethea AI](https://alethea.ai/) - A research and development studio building at the intersection of Generative AI and Blockchain.
 
 ### Blockchain projects for AI algorithms
 - [Danku](https://github.com/algorithmiaio/danku) - A blockchain-based protocol for evaluating and purchasing ML models on a public blockchain such as Ethereum. [Blog post.](https://algorithmia.com/research/ml-models-on-blockchain)
@@ -57,6 +58,7 @@ This list explores awesome projects that exploit the properties of blockchain te
 - [TrueBit](https://truebit.io/) - TrueBit gives Ethereum smart contracts a computational boost.
 - [DeepBrain Chain](https://www.deepbrainchain.org/) - A decentralized AI computing platform that supplies processing power to companies looking to develop A.I. technologies.
 - [Nunet](https://www.nunet.io/) - A globally decentralized computing framework that combines latent computing power of independently owned compute devices across the globe into a dynamic marketplace of compute resources.
+- [Phala Network](https://phala.network/) - A decentralized off-chain compute infrastructure for Web3 development.
 
 ## Blockchains for AI in finance
 
