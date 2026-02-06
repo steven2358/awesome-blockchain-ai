@@ -45,7 +45,6 @@ This list explores awesome projects that exploit the properties of blockchain te
 - [Bittensor](https://bittensor.com/) - Bittensor is an open-source protocol that powers a decentralized, blockchain-based machine learning network. [Related resources.](https://taostats.io/links/)
 - [Alethea AI](https://alethea.ai/) - A research and development studio building at the intersection of Generative AI and Blockchain.
 - [Vanna Labs](https://www.vannalabs.ai/) - An Ethereum L2 rollup that supports native, seamless, and trustless AI/ML inferences on-chain to empower decentralized applications.
-- [Hashgraph Online (HOL)](https://hol.org/) - Universal Agentic Registry built on Hedera Hashgraph. Provides blockchain-based identity for AI agents using ERC-8004 standard and HCS-14 Universal Agent IDs (UAIDs). Enables agent discovery, verification, and autonomous commerce via x402 protocol.
 
 ### Blockchain projects for AI algorithms
 - [Danku](https://github.com/algorithmiaio/danku) - A blockchain-based protocol for evaluating and purchasing ML models on a public blockchain such as Ethereum. [Blog post.](https://algorithmia.com/research/ml-models-on-blockchain)
@@ -64,7 +63,6 @@ This list explores awesome projects that exploit the properties of blockchain te
 
 ## Blockchains for AI in finance
 
-- [AgentFund](https://github.com/RioBot-Grind/agentfund) - AgentFund is decentralized crowdfunding infrastructure for autonomous AI agents on Base blockchain, enabling milestone-based escrow funding for AI projects and collaborations.
 - [Numerai](https://numer.ai/) - Numerai is a hedge fund powered by a network of anonymous data scientists that build machine learning models to operate on encrypted data and stake cryptocurrency to express confidence in their models.
 - [Cindicator](https://cindicator.com/) - Cindicator is a crowd-sourced prediction engine for financial and crypto indicators. 
 - [Erasure](https://erasure.xxx/) - Erasure is a decentralized protocol and data marketplace for financial predictions.
@@ -75,6 +73,11 @@ This list explores awesome projects that exploit the properties of blockchain te
 - [BurstIQ](https://www.burstiq.com/) - Healthcare data marketplace with granular ownership and granular consent of data. By using on-chain storage on a custom blockchain, BurstIQ can comply with HIPAA, GDPR, and other regulations.
 
 ## Blockchains for AI in supply chains
+
+## Blockchains for autonomous agents
+
+- [Hashgraph Online (HOL)](https://hol.org/) - Universal agentic registry built on Hedera Hashgraph. Provides blockchain-based identity for AI agents using ERC-8004 standard and HCS-14 Universal Agent IDs (UAIDs). Enables agent discovery, verification, and autonomous commerce via x402 protocol.
+- [AgentFund](https://github.com/RioBot-Grind/agentfund) - A decentralized crowdfunding infrastructure for autonomous AI agents on Base blockchain, enabling milestone-based escrow funding for AI projects and collaborations.
 
 ## Academic Research
 - [Coin.AI](https://doi.org/10.3390/e21080723) - Baldominos, A., & Saez, Y. (2019). Coin.AI: A proof-of-useful-work scheme for blockchain-based distributed deep learning. *Entropy*, 21(8), 723.
