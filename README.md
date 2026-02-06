@@ -13,6 +13,7 @@ This list explores awesome projects that exploit the properties of blockchain te
 - [Blockchains for AI in finance](#blockchains-for-ai-in-finance)
 - [Blockchains for AI in medicine](#blockchains-for-ai-in-medicine)
 - [Blockchains for AI in supply chains](#blockchains-for-ai-in-supply-chains)
+- [Blockchains for autonomous agents](#blockchains-for-autonomous-agents)
 - [Academic Research](#academic-research)
 
 ## Recommended reading
