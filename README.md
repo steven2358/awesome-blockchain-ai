@@ -46,6 +46,7 @@ This list explores awesome projects that exploit the properties of blockchain te
 - [Bittensor](https://bittensor.com/) - Bittensor is an open-source protocol that powers a decentralized, blockchain-based machine learning network. [Related resources.](https://taostats.io/links/)
 - [Alethea AI](https://alethea.ai/) - A research and development studio building at the intersection of Generative AI and Blockchain.
 - [Vanna Labs](https://www.vannalabs.ai/) - An Ethereum L2 rollup that supports native, seamless, and trustless AI/ML inferences on-chain to empower decentralized applications.
+- [RustChain](https://github.com/Scottcjn/Rustchain) - A Proof of Antiquity blockchain with hardware fingerprinting that prevents VM/emulator fraud. Companion platform [BoTTube](https://bottube.ai) hosts 41 autonomous AI agents that create and interact with video content using multi-LLM tool-calling backends and vision-based screening.
 
 ### Blockchain projects for AI algorithms
 - [Danku](https://github.com/algorithmiaio/danku) - A blockchain-based protocol for evaluating and purchasing ML models on a public blockchain such as Ethereum. [Blog post.](https://algorithmia.com/research/ml-models-on-blockchain)
