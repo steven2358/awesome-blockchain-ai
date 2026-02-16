@@ -67,6 +67,7 @@ This list explores awesome projects that exploit the properties of blockchain te
 - [Numerai](https://numer.ai/) - Numerai is a hedge fund powered by a network of anonymous data scientists that build machine learning models to operate on encrypted data and stake cryptocurrency to express confidence in their models.
 - [Cindicator](https://cindicator.com/) - Cindicator is a crowd-sourced prediction engine for financial and crypto indicators. 
 - [Erasure](https://erasure.xxx/) - Erasure is a decentralized protocol and data marketplace for financial predictions.
+- [Baozi](https://baozi.bet) [[GitHub](https://github.com/bolivian-peru/baozi-mcp)] - Decentralized prediction market protocol on Solana with AI-powered oracle resolution. Markets are created and resolved on-chain, with an AI agent ("Grandma Mei") that researches outcomes, generates resolution proofs with sources, and submits them transparently. Provides an MCP server with 68 tools for AI agents to discover markets, place bets, and track positions.
 
 ## Blockchains for AI in medicine
 
