@@ -50,6 +50,8 @@ This list explores awesome projects that exploit the properties of blockchain te
 ### Blockchain projects for AI algorithms
 - [Danku](https://github.com/algorithmiaio/danku) - A blockchain-based protocol for evaluating and purchasing ML models on a public blockchain such as Ethereum. [Blog post.](https://algorithmia.com/research/ml-models-on-blockchain)
 - [Decentralized & Collaborative AI on Blockchain](https://github.com/microsoft/0xDeCA10B) - 0xDeCA10B is a framework to host and train publicly available machine learning models in smart contracts with incentive mechanisms to encourage good quality training data while keeping the models free to use for prediction. [Blog post.](https://www.microsoft.com/en-us/research/blog/leveraging-blockchain-to-make-machine-learning-models-more-accessible/)
+- [bitcoin-mcp](https://github.com/Bortlesboat/bitcoin-mcp) - A Bitcoin MCP server providing 49 tools for AI agents, including fee intelligence, mempool analysis, block inspection, transaction decoding, and mining insights.
+- [ChainPulse](https://github.com/Bortlesboat/chainpulse) - An AI-powered Bitcoin network intelligence CLI that enables natural language queries about the Bitcoin network.
 
 ## Blockchains for data
 
@@ -79,6 +81,7 @@ This list explores awesome projects that exploit the properties of blockchain te
 
 - [Hashgraph Online (HOL)](https://hol.org/) - Universal agentic registry built on Hedera Hashgraph. Provides blockchain-based identity for AI agents using ERC-8004 standard and HCS-14 Universal Agent IDs (UAIDs). Enables agent discovery, verification, and autonomous commerce via x402 protocol.
 - [AgentFund](https://github.com/RioBot-Grind/agentfund) - A decentralized crowdfunding infrastructure for autonomous AI agents on Base blockchain, enabling milestone-based escrow funding for AI projects and collaborations.
+- [baip-python](https://github.com/Bortlesboat/baip-python) - Bitcoin Agent Identity Protocol (BAIP) implementation for creating verifiable AI agent identities anchored to the Bitcoin blockchain.
 
 ## Academic Research
 - [Coin.AI](https://doi.org/10.3390/e21080723) - Baldominos, A., & Saez, Y. (2019). Coin.AI: A proof-of-useful-work scheme for blockchain-based distributed deep learning. *Entropy*, 21(8), 723.
