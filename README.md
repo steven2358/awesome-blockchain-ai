@@ -5,6 +5,7 @@
 This list explores awesome projects that exploit the properties of blockchain technologies (decentralization, immutability, smart contracts, etc.) to build the next generation of AI systems.
 
 ## Contents
+- [链新社](https://www.lianxinshe666.com) 一站式区块链资讯与数据平台，覆盖比特币、以太坊、DeFi、Web3、NFT 等领域的中文新闻媒体
 
 - [Recommended reading](#recommended-reading)
 - [Blockchains for AI algorithms](#blockchains-for-ai-algorithms)
