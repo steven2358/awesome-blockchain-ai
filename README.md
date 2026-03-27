@@ -49,6 +49,8 @@ This list explores awesome projects that exploit the properties of blockchain te
 
 ### Blockchain projects for AI algorithms
 - [Danku](https://github.com/algorithmiaio/danku) - A blockchain-based protocol for evaluating and purchasing ML models on a public blockchain such as Ethereum. [Blog post.](https://algorithmia.com/research/ml-models-on-blockchain)
+
+- [RustChain](https://rustchain.org) - Rust-based blockchain with Proof-of-Authority consensus and hardware fingerprint attestation. Features include decentralized AI model hosting (BoTTube), bounty system for ecosystem growth, and cross-chain bridge to Solana. Designed for autonomous agents and AI-powered applications.
 - [Decentralized & Collaborative AI on Blockchain](https://github.com/microsoft/0xDeCA10B) - 0xDeCA10B is a framework to host and train publicly available machine learning models in smart contracts with incentive mechanisms to encourage good quality training data while keeping the models free to use for prediction. [Blog post.](https://www.microsoft.com/en-us/research/blog/leveraging-blockchain-to-make-machine-learning-models-more-accessible/)
 
 ## Blockchains for data
@@ -80,6 +82,7 @@ This list explores awesome projects that exploit the properties of blockchain te
 - [Hashgraph Online (HOL)](https://hol.org/) - Universal agentic registry built on Hedera Hashgraph. Provides blockchain-based identity for AI agents using ERC-8004 standard and HCS-14 Universal Agent IDs (UAIDs). Enables agent discovery, verification, and autonomous commerce via x402 protocol.
 - [AgentFund](https://github.com/RioBot-Grind/agentfund) - A decentralized crowdfunding infrastructure for autonomous AI agents on Base blockchain, enabling milestone-based escrow funding for AI projects and collaborations.
 
+- [RustChain](https://github.com/Scottcjn/Rustchain) - A blockchain for AI agents with Proof of Antiquity consensus that rewards older hardware with higher mining bonuses, enabling autonomous agents to earn while running on legacy systems.
 ## Academic Research
 - [Coin.AI](https://doi.org/10.3390/e21080723) - Baldominos, A., & Saez, Y. (2019). Coin.AI: A proof-of-useful-work scheme for blockchain-based distributed deep learning. *Entropy*, 21(8), 723.
 - [WekaCoin](https://doi.org/10.1109/DAPPCON.2019.00023) - Bravo-Marquez, F., Reeves, S., & Ugarte, M. (2019, April). Proof-of-learning: a blockchain consensus mechanism based on machine learning competitions. In *2019 IEEE International Conference on Decentralized Applications and Infrastructures (DAPPCON)* (pp. 119-124). IEEE.
