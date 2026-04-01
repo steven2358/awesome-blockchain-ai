@@ -67,6 +67,7 @@ This list explores awesome projects that exploit the properties of blockchain te
 - [Numerai](https://numer.ai/) - Numerai is a hedge fund powered by a network of anonymous data scientists that build machine learning models to operate on encrypted data and stake cryptocurrency to express confidence in their models.
 - [Cindicator](https://cindicator.com/) - Cindicator is a crowd-sourced prediction engine for financial and crypto indicators. 
 - [Erasure](https://erasure.xxx/) - Erasure is a decentralized protocol and data marketplace for financial predictions.
+- [PredScope](https://predscope.com/) - PredScope is a prediction market analytics platform tracking 1200+ Polymarket events with AI-powered signals, live odds, and trading data. Offers a free public API for prediction market data.
 
 ## Blockchains for AI in medicine
 
