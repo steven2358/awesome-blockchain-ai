@@ -77,7 +77,7 @@ This list explores awesome projects that exploit the properties of blockchain te
 
 ## Blockchains for autonomous agents
 
-- [Hashgraph Online (HOL)](https://hol.org/) - Universal agentic registry built on Hedera Hashgraph. Provides blockchain-based identity for AI agents using ERC-8004 standard and HCS-14 Universal Agent IDs (UAIDs). Enables agent discovery, verification, and autonomous commerce via x402 protocol.
+- [Hashgraph Online (HOL)](https://hol.org/) - Universal agentic registry built on Hedera Hashgraph. Provides blockchain-based identity for AI agents using ERC-8004 standard and HCS-14 Universal Agent IDs (UAIDs). Enables agent discovery, verification, and autonomous commerce via x402 protocol. Open-source SDKs: [TypeScript](https://github.com/hashgraph-online/standards-sdk), [Go](https://github.com/hashgraph-online/standards-sdk-go), [Python](https://github.com/hashgraph-online/standards-sdk-py). Additional protocol bridges: A2A, Virtuals, OpenConvAI. 187K+ verified agents, 33M+ daily HCS operations.
 - [AgentFund](https://github.com/RioBot-Grind/agentfund) - A decentralized crowdfunding infrastructure for autonomous AI agents on Base blockchain, enabling milestone-based escrow funding for AI projects and collaborations.
 
 ## Academic Research
