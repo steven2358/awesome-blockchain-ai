@@ -4,6 +4,7 @@
 
 This list explores awesome projects that exploit the properties of blockchain technologies (decentralization, immutability, smart contracts, etc.) to build the next generation of AI systems.
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for multi-agent orchestration with Claude Code. MIT licensed.
 ## Contents
 
 - [Recommended reading](#recommended-reading)
