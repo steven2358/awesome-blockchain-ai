@@ -5,6 +5,7 @@
 This list explores awesome projects that exploit the properties of blockchain technologies (decentralization, immutability, smart contracts, etc.) to build the next generation of AI systems.
 
 ## Contents
+- [RustChain](https://github.com/Scottcjn/Rustchain) - Proof-of-Antiquity blockchain. Old computers earn more than new ones.
 
 - [Recommended reading](#recommended-reading)
 - [Blockchains for AI algorithms](#blockchains-for-ai-algorithms)
