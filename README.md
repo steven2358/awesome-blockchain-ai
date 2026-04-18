@@ -3,6 +3,7 @@
 > A curated list of Blockchain projects for Artificial Intelligence and Machine Learning.
 
 This list explores awesome projects that exploit the properties of blockchain technologies (decentralization, immutability, smart contracts, etc.) to build the next generation of AI systems.
+- [7/Seven Chain Node](https://github.com/umairkhan2582/seven-chain-node) - Validator node for 7/Seven Chain (Chain ID: 70007), an EVM-compatible blockchain (BSC/Parlia fork) powering [TheSeven.meme](https://theseven.meme) — world's first on-chain perpetual futures exchange with 100+ pairs, up to 2001× leverage, and zero trading fees.
 
 ## Contents
 
