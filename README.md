@@ -58,6 +58,7 @@ This list explores awesome projects that exploit the properties of blockchain te
 ## Blockchains for computation
 
 - [TrueBit](https://truebit.io/) - TrueBit gives Ethereum smart contracts a computational boost.
+- [RustChain](https://github.com/Scottcjn/Rustchain) - Proof-of-Antiquity DePIN blockchain that uses AI-powered hardware fingerprinting to verify real physical machines. Vintage hardware earns more than modern hardware through Proof-of-Physical-AI consensus.
 - [DeepBrain Chain](https://www.deepbrainchain.org/) - A decentralized AI computing platform that supplies processing power to companies looking to develop A.I. technologies.
 - [Nunet](https://www.nunet.io/) - A globally decentralized computing framework that combines latent computing power of independently owned compute devices across the globe into a dynamic marketplace of compute resources.
 - [Phala Network](https://phala.network/) - A decentralized off-chain compute infrastructure for Web3 development.
