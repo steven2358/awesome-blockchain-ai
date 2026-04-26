@@ -58,6 +58,7 @@ This list explores awesome projects that exploit the properties of blockchain te
 ## Blockchains for computation
 
 - [TrueBit](https://truebit.io/) - TrueBit gives Ethereum smart contracts a computational boost.
+- [RustChain](https://github.com/Scottcjn/Rustchain) - Proof-of-Antiquity DePIN blockchain that uses AI-powered hardware fingerprinting to verify real physical machines. Vintage hardware earns more than modern hardware through Proof-of-Physical-AI consensus.
 - [DeepBrain Chain](https://www.deepbrainchain.org/) - A decentralized AI computing platform that supplies processing power to companies looking to develop A.I. technologies.
 - [Nunet](https://www.nunet.io/) - A globally decentralized computing framework that combines latent computing power of independently owned compute devices across the globe into a dynamic marketplace of compute resources.
 - [Phala Network](https://phala.network/) - A decentralized off-chain compute infrastructure for Web3 development.
@@ -94,6 +95,7 @@ This list explores awesome projects that exploit the properties of blockchain te
 - [Proof of Federated Learning](https://doi.org/10.1109/TPDS.2021.3056773) - Qu, X., Wang, S., Hu, Q., & Cheng, X. (2021). Proof of federated learning: A novel energy-recycling consensus algorithm. *IEEE Transactions on Parallel and Distributed Systems*, 32(8), 2074-2085.
 - [Proof of neural architecture](https://doi.org/10.1109/ICBC51069.2021.9461067) - Li, B., Lu, Q., Jiang, W., Jung, T., & Shi, Y. (2021, May). A mining pool solution for novel proof-of-neural-architecture consensus. In *2021 IEEE International Conference on Blockchain and Cryptocurrency (ICBC)* (pp. 1-3). IEEE.
 
+- [RustChain](https://github.com/Scottcjn/RustChain) - Proof-of-Antiquity blockchain combining hardware preservation with AI-driven mining optimization.
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
