@@ -67,6 +67,7 @@ This list explores awesome projects that exploit the properties of blockchain te
 - [Numerai](https://numer.ai/) - Numerai is a hedge fund powered by a network of anonymous data scientists that build machine learning models to operate on encrypted data and stake cryptocurrency to express confidence in their models.
 - [Cindicator](https://cindicator.com/) - Cindicator is a crowd-sourced prediction engine for financial and crypto indicators. 
 - [Erasure](https://erasure.xxx/) - Erasure is a decentralized protocol and data marketplace for financial predictions.
+- [DeepAlpha](https://github.com/stefanoviana/deepalpha) - DeepAlpha is an AI-powered crypto trading framework with ML ensemble models (XGBoost, LightGBM, CatBoost). Features 3 bot types (AI, Grid, DCA), 12 exchange support via CCXT, and Telegram bot control. Open source Python package on [PyPI](https://pypi.org/project/deepalpha/). [Demo](https://deepalphabot.com)
 
 ## Blockchains for AI in medicine
 
