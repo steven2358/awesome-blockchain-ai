@@ -79,6 +79,7 @@ This list explores awesome projects that exploit the properties of blockchain te
 
 - [Hashgraph Online (HOL)](https://hol.org/) - Universal agentic registry built on Hedera Hashgraph. Provides blockchain-based identity for AI agents using ERC-8004 standard and HCS-14 Universal Agent IDs (UAIDs). Enables agent discovery, verification, and autonomous commerce via x402 protocol.
 - [AgentFund](https://github.com/RioBot-Grind/agentfund) - A decentralized crowdfunding infrastructure for autonomous AI agents on Base blockchain, enabling milestone-based escrow funding for AI projects and collaborations.
+- [Voidly Pay](https://github.com/voidly-ai/voidly-pay) - x402 facilitator and agent payment rail with transfers, escrow, streams (per-token / per-second metering), subscriptions, batch payouts, and a marketplace of 17 paid endpoints. USDC settlement on Base mainnet via a Sourcify-verified vault. SDKs for TypeScript, Python, LangChain, CrewAI, AutoGen, LlamaIndex, Pydantic AI, Vercel AI, plus a 42-tool MCP server.
 
 ## Academic Research
 - [Coin.AI](https://doi.org/10.3390/e21080723) - Baldominos, A., & Saez, Y. (2019). Coin.AI: A proof-of-useful-work scheme for blockchain-based distributed deep learning. *Entropy*, 21(8), 723.
