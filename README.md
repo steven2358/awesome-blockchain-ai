@@ -99,3 +99,5 @@ This list explores awesome projects that exploit the properties of blockchain te
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Steven Van Vaerenbergh](https://github.com/steven2358) has waived all copyright and related or neighboring rights to this work.
+
+- [EventTrader](https://cymetica.com) — Perpetual prediction markets & CLOB exchange on Base L2. Pre-launch TGE token price predictions with on-chain settlement. AI-native with A2A agent protocol. [Agent Card](https://cymetica.com/.well-known/agent.json) | [TGE Markets](https://cymetica.com/tge-launch)
