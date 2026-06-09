@@ -61,6 +61,7 @@ This list explores awesome projects that exploit the properties of blockchain te
 - [DeepBrain Chain](https://www.deepbrainchain.org/) - A decentralized AI computing platform that supplies processing power to companies looking to develop A.I. technologies.
 - [Nunet](https://www.nunet.io/) - A globally decentralized computing framework that combines latent computing power of independently owned compute devices across the globe into a dynamic marketplace of compute resources.
 - [Phala Network](https://phala.network/) - A decentralized off-chain compute infrastructure for Web3 development.
+- [Aleph Cloud](https://aleph.cloud) - A decentralized cloud providing confidential compute, on-demand VMs, storage, and indexing across a distributed node network.
 
 ## Blockchains for AI in finance
 
