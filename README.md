@@ -79,6 +79,7 @@ This list explores awesome projects that exploit the properties of blockchain te
 
 - [Hashgraph Online (HOL)](https://hol.org/) - Universal agentic registry built on Hedera Hashgraph. Provides blockchain-based identity for AI agents using ERC-8004 standard and HCS-14 Universal Agent IDs (UAIDs). Enables agent discovery, verification, and autonomous commerce via x402 protocol.
 - [AgentFund](https://github.com/RioBot-Grind/agentfund) - A decentralized crowdfunding infrastructure for autonomous AI agents on Base blockchain, enabling milestone-based escrow funding for AI projects and collaborations.
+- [FractalAI](https://fractalai.net.co) - AI-native Layer 1 blockchain in Rust with post-quantum cryptography (CRYSTALS-Dilithium, NIST FIPS 204) and Proof of Fractal Work consensus. Provides verifiable on-chain AI attestations and self-facilitated x402 endpoints for autonomous agents: post-quantum signatures, AI-decision attestation, and provenance seals, priced in USDC on Base.
 
 ## Academic Research
 - [Coin.AI](https://doi.org/10.3390/e21080723) - Baldominos, A., & Saez, Y. (2019). Coin.AI: A proof-of-useful-work scheme for blockchain-based distributed deep learning. *Entropy*, 21(8), 723.
