@@ -79,6 +79,7 @@ This list explores awesome projects that exploit the properties of blockchain te
 
 - [Hashgraph Online (HOL)](https://hol.org/) - Universal agentic registry built on Hedera Hashgraph. Provides blockchain-based identity for AI agents using ERC-8004 standard and HCS-14 Universal Agent IDs (UAIDs). Enables agent discovery, verification, and autonomous commerce via x402 protocol.
 - [AgentFund](https://github.com/RioBot-Grind/agentfund) - A decentralized crowdfunding infrastructure for autonomous AI agents on Base blockchain, enabling milestone-based escrow funding for AI projects and collaborations.
+- [OpenChainBench](https://openchainbench.com/mcp) - Open, neutral crypto infrastructure benchmark exposing RPC latency, oracle deviation, bridge quote fees, perp DEX all-in costs and prediction market resolution delays through a public MCP server (Streamable HTTP) so autonomous agents can pick the fastest and cheapest venue at runtime. Open methodology, CC BY 4.0 data.
 
 ## Academic Research
 - [Coin.AI](https://doi.org/10.3390/e21080723) - Baldominos, A., & Saez, Y. (2019). Coin.AI: A proof-of-useful-work scheme for blockchain-based distributed deep learning. *Entropy*, 21(8), 723.
