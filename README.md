@@ -64,10 +64,10 @@ This list explores awesome projects that exploit the properties of blockchain te
 
 ## Blockchains for AI in finance
 
-- [DexPaprika](https://api.dexpaprika.com) - Free DEX data API and [MCP server](https://github.com/coinpaprika/dexpaprika-mcp) for AI agents. Real-time data across 34 blockchains, 30M+ pools, 27M+ tokens. No API key needed. Built by [CoinPaprika](https://coinpaprika.com).
 - [Numerai](https://numer.ai/) - Numerai is a hedge fund powered by a network of anonymous data scientists that build machine learning models to operate on encrypted data and stake cryptocurrency to express confidence in their models.
-- [Cindicator](https://cindicator.com/) - Cindicator is a crowd-sourced prediction engine for financial and crypto indicators.
+- [Cindicator](https://cindicator.com/) - Cindicator is a crowd-sourced prediction engine for financial and crypto indicators. 
 - [Erasure](https://erasure.xxx/) - Erasure is a decentralized protocol and data marketplace for financial predictions.
+- [DexPaprika](https://api.dexpaprika.com) - DEX data API and [MCP server](https://github.com/coinpaprika/dexpaprika-mcp) for AI agents, covering 36 blockchains, 36M+ pools and 33M+ tokens. Free tier, no API key required. Built by [CoinPaprika](https://coinpaprika.com).
 
 ## Blockchains for AI in medicine
 
