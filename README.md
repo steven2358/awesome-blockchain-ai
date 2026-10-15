@@ -43,7 +43,7 @@ This list explores awesome projects that exploit the properties of blockchain te
 - [Cortex Labs](https://www.cortexlabs.ai/) - Cortex Labs is a decentralized AI platform with a virtual machine that allows you to execute AI programs on-chain.
 - [Fetch.ai](https://fetch.ai/) - Fetch.ai is a decentralized machine learning platform based on a distributed ledger, that enables secure sharing, connection and transactions based on any data globally.
 - [Oraichain](https://orai.io/) - Oraichain is the world's first intelligent and secure solution for emerging Web3, scalable Dapps, and decentralized AI.
-- [Bittensor](https://bittensor.com/) - Bittensor is an open-source protocol that powers a decentralized, blockchain-based machine learning network. [Related resources.](https://taostats.io/links/)
+- [Bittensor](https://bittensor.com/) - Bittensor is an open-source protocol that powers a decentralized, blockchain-based machine learning network. ([Explorer](https://taostats.io/) | [Stakao Staking](https://stakao.com/))
 - [Alethea AI](https://alethea.ai/) - A research and development studio building at the intersection of Generative AI and Blockchain.
 - [Vanna Labs](https://www.vannalabs.ai/) - An Ethereum L2 rollup that supports native, seamless, and trustless AI/ML inferences on-chain to empower decentralized applications.
 
