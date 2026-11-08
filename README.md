@@ -78,6 +78,7 @@ This list explores awesome projects that exploit the properties of blockchain te
 ## Blockchains for autonomous agents
 
 - [Hashgraph Online (HOL)](https://hol.org/) - Universal agentic registry built on Hedera Hashgraph. Provides blockchain-based identity for AI agents using ERC-8004 standard and HCS-14 Universal Agent IDs (UAIDs). Enables agent discovery, verification, and autonomous commerce via x402 protocol.
+- [Fukilla](https://github.com/Fuma2514/fukilla) - Burn-after-pay agent wallets on NEAR: AI agents receive and spend funds without holding keys, protected by spend caps, an on-chain velocity breaker, a canary honeypot and a self-destruct sweep (NEAR HACKATHON 2026 security track).
 - [AgentFund](https://github.com/RioBot-Grind/agentfund) - A decentralized crowdfunding infrastructure for autonomous AI agents on Base blockchain, enabling milestone-based escrow funding for AI projects and collaborations.
 
 ## Academic Research
