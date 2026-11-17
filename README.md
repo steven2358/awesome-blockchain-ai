@@ -77,6 +77,7 @@ This list explores awesome projects that exploit the properties of blockchain te
 
 ## Blockchains for autonomous agents
 
+- [VEX](https://github.com/umairkhan2582/vex) - High-throughput deterministic WebAssembly execution engine and decentralized autonomous code synthesis agent pairing AI models with 1,024 register virtual machines.
 - [Hashgraph Online (HOL)](https://hol.org/) - Universal agentic registry built on Hedera Hashgraph. Provides blockchain-based identity for AI agents using ERC-8004 standard and HCS-14 Universal Agent IDs (UAIDs). Enables agent discovery, verification, and autonomous commerce via x402 protocol.
 - [AgentFund](https://github.com/RioBot-Grind/agentfund) - A decentralized crowdfunding infrastructure for autonomous AI agents on Base blockchain, enabling milestone-based escrow funding for AI projects and collaborations.
 
