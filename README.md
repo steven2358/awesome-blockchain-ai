@@ -93,7 +93,7 @@ This list explores awesome projects that exploit the properties of blockchain te
 - [Hyperparameter Optimization](https://doi.org/10.3389/fbloc.2020.00023) - Mittal, A., & Aggarwal, S. (2020). Hyperparameter optimization using sustainable proof of work in blockchain. *Frontiers in Blockchain*, 3, 23.
 - [Proof of Federated Learning](https://doi.org/10.1109/TPDS.2021.3056773) - Qu, X., Wang, S., Hu, Q., & Cheng, X. (2021). Proof of federated learning: A novel energy-recycling consensus algorithm. *IEEE Transactions on Parallel and Distributed Systems*, 32(8), 2074-2085.
 - [Proof of neural architecture](https://doi.org/10.1109/ICBC51069.2021.9461067) - Li, B., Lu, Q., Jiang, W., Jung, T., & Shi, Y. (2021, May). A mining pool solution for novel proof-of-neural-architecture consensus. In *2021 IEEE International Conference on Blockchain and Cryptocurrency (ICBC)* (pp. 1-3). IEEE.
-- [AI-Blockchain Project-Card Dataset](https://doi.org/10.1109/IEEEDATA.2026.3740408) - Kadochnikov, N. N. (2026). Descriptor: AI-Blockchain Project-Card Dataset (ABPC). *IEEE Data Descriptions*, 1-12. Dataset: [Zenodo](https://doi.org/10.5281/zenodo.22800707).
+- [AI-Blockchain Project-Card Dataset](https://doi.org/10.1109/IEEEDATA.2026.3740408) - Kadochnikov, N. N. (2026). Descriptor: AI-Blockchain Project-Card Dataset (ABPC). *IEEE Data Descriptions*, 3, 752-764. Dataset: [Zenodo](https://doi.org/10.5281/zenodo.22800707).
 
 ## License
 
